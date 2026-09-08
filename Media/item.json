@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 15 Pro Max (256GB)",
+    "price": "365,000.00",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
+    "description": "• Brand New / Sealed Box\n• TRCSL Approved\n• 1 Year Apple Care Global Warranty\n• Dynamic Island & A17 Pro Chip"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24 Ultra (512GB)",
+    "price": "345,000.00",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&q=80",
+    "description": "• 12GB RAM / 512GB Storage\n• Titanium Armor Frame\n• Galaxy AI Smart Features Built-in\n• 200MP Quad Telephoto System"
+  },
+  {
+    "id": 4,
+    "title": "USB cable All type",
+    "price": "1000.00",
+    "image": "https://shopee.lk/wp-content/uploads/2023/04/1-40-571x571.jpg",
+    "description": "• all type usb cable micro type c"
+  },
+  {
+    "id": 5,
+    "title": "Smart Stereo Headset",
+    "price": "1880.00",
+    "image": "https://files.catbox.moe/2yihpo.jpg",
+    "description": "• PAPADA PA200 Super Bass Smart Stereo Headset"
+  },
+  {
+    "id": 6,
+    "title": "K 155 USB Cable",
+    "price": "780.00",
+    "image": "https://files.catbox.moe/d5rr3h.jpg",
+    "description": "• Youshengku K-155 Super Fast Charging Cable\n9A High Output: ඉතා වේගයෙන් Charge කරගත හැක\nSafe & Durable: ෆෝන් එක රත්වීම වළක්වයි\nData Sync: වේගයෙන් Data Transfer කළ හැක"
+  },
+  {
+    "id": 7,
+    "title": "Air Pods Pro",
+    "price": "3200.00",
+    "image": "https://files.catbox.moe/mtguw5.jpg",
+    "description": "Premium AirPods Pro – Ultimate Wireless Earbuds\nSound Quality: Clear audio with Deep Bass & ANC\nBattery Life: 5-6 hours playtime\nPrice: LKR 3200.00\nDelivery: Island-wide Delivery Available 🚚"
+  },
+  {
+    "id": 8,
+    "title": "4 in 1 Usb cable",
+    "price": "1880.00",
+    "image": "https://files.catbox.moe/k69eut.jpg",
+    "description": ""
+  },
+   {
+    "id": 8,
+    "title": "4 in 1 Usb cable",
+    "price": "1880.00",
+    "image": "https://files.catbox.moe/k69eut.jpg",
+    "description": ""
+  }
+]
