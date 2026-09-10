@@ -66,11 +66,25 @@
     "id":11,
     "title": "Dell Latitude 3410",
     "price": "73,500.00",
-    "image": " ",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmBjB6bcgsNqUN9O292lZZIZOJv6NCAQm99tCOJTdpk67fcH5ZtIOn5Ft&s=10",
     "description": "The Dell Latitude 3410 is a used business laptop powered by a 10th generation Intel Core i5 processor with Intel UHD Graphics. With 8GB DDR4 RAM and a 256GB NVMe SSD, it delivers fast, reliable performance for office work, multitasking, and everyday computing. The 14 inch display keeps the laptop compact and portable, making it a solid choice for professionals, students, and home users seeking a dependable business laptop."
   },
     {
     "id":12,
+    "title": " ",
+    "price": " ",
+    "image": " ",
+    "description": " "
+  },
+  {
+    "id":13,
+    "title": " ",
+    "price": " ",
+    "image": " ",
+    "description": " "
+  },
+  {
+    "id":14,
     "title": " ",
     "price": " ",
     "image": " ",
