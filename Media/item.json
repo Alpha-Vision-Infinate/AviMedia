@@ -106,6 +106,20 @@
   },
     {
     "id":17,
+    "title": "Samsung Slim i5 6th",
+    "price": "35,800.00",
+    "image": "https://billing.mskcomputers.lk/assets/uploads/ba435b36d40b8ce55a6567a1e8bf8d31.jpg",
+    "description": " Samsung Slim i5 6th Gen DDR4 4GB Ram 500 HHD"
+  },
+  {
+    "id":18,
+    "title": "Samsung Slim i5 8th Gen",
+    "price": "55,800.00",
+    "image": "https://sinsungcns.com/data/_custom/cus_bbs/_mig/not_specified/202207211553249703122(0).jpg",
+    "description": "Samsung Slim i5 8th Gen 4Gb Ram 500HHD"
+  },
+  {
+    "id":17,
     "title": "No data ",
     "price": "free ",
     "image": " ",
